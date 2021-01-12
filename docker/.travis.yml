@@ -4,4 +4,4 @@ services:
   - docker
 
 script:
-  - docker build -t radareorg/cutter .
+  - docker build -t rizin/cutter .
